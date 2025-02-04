@@ -1,4 +1,4 @@
-# Automatizirano Testiranje Web Aplikacijee
+# Automatizirano Testiranje Web Aplikacije
 
 ## Opis Projekta
 Ovaj projekt služi za automatizirano testiranje web aplikacije koristeći Selenium WebDriver i TestNG. Testovi provjeravaju funkcionalnosti kao što su registracija korisnika, prijava, dodavanje proizvoda u košaricu, proces naplate i slanje kontakt forme.
